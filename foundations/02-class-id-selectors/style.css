@@ -1,0 +1,17 @@
+.firstP{
+    background-color: rgb(255, 143, 143);
+}
+#divOne{
+   color: rgb(0,0,255); 
+   font-size: 36px;
+}
+
+.firstP.third{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
